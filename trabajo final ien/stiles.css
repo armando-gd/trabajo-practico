@@ -1,0 +1,54 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: burlywood;
+
+}
+.container-fluid{
+    background-color: bisque;
+}
+.carousel-inner{
+    max-height: 38rem;
+}
+ h3{
+     
+     font-size: medium;
+     font-family: 'Imperial Script', cursive;
+     text-align: center;
+     
+ }  
+ h5{
+    font-family: 'Roboto Condensed', sans-serif;
+ } 
+ 
+ .map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:56.25%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:100%;
+
+    width:100%;
+
+    position:absolute;
+
+}
+@media(max-width 576px){
+    .wraper-local
+}
+
+
+ 
+ 
